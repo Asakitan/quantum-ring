@@ -9,3 +9,5 @@
 检查 3 至 10 点环的 2032 个非空点集、60 个环长与故障预算组合。
 
 [工作记录](docs/session-log/README.md)。
+
+[仓库首页](README.md) · [MIT 许可证](LICENSE)。
