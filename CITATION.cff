@@ -3,9 +3,9 @@ message: "To cite the independently released proof and verification materials, u
 title: "Optimal erasure-tolerant detector placement on a quantum ring"
 authors:
   - family-names: "Chain.Ren"
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-11-26"
-url: "https://github.com/Asakitan/quantum-ring/releases/tag/proof-v1.0.0"
+url: "https://github.com/Asakitan/quantum-ring/releases/tag/proof-v1.0.1"
 repository-code: "https://github.com/Asakitan/quantum-ring"
 license: MIT
 preferred-citation:
@@ -13,6 +13,6 @@ preferred-citation:
   title: "Optimal erasure-tolerant detector placement on a quantum ring"
   authors:
     - family-names: "Chain.Ren"
-  version: "1.0.0"
+  version: "1.0.1"
   year: 2026
-  url: "https://github.com/Asakitan/quantum-ring/blob/proof-v1.0.0/quantum-ring-proof.md"
+  url: "https://github.com/Asakitan/quantum-ring/blob/proof-v1.0.1/quantum-ring-proof.md"
