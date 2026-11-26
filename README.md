@@ -1,5 +1,9 @@
 # 量子环上的容错探测布点
 
+**证明署名：** Chain.Ren · 独立研究 · [完整证明](quantum-ring-proof.md) · 版本日期：2026-11-26
+
+[固定版本证明](https://github.com/Asakitan/quantum-ring/blob/proof-v1.0.0/quantum-ring-proof.md) · [GitHub Release 与公开时间](https://github.com/Asakitan/quantum-ring/releases/tag/proof-v1.0.0) · [引用信息](CITATION.cff)
+
 在均匀最近邻量子环上，磁通是未知但静态的，探测采用固定间隔的二元投影测量。设环有 $N$ 个格点，$p$ 是 $N$ 的最小素因子，最多允许任意 $r$ 个已装探测点在运行前永久失效。
 
 在无采样混叠的条件下，若要求对所有初态和磁通都以概率 1 最终探测到粒子，最少需要：

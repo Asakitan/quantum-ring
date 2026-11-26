@@ -11,3 +11,5 @@
 [工作记录](docs/session-log/README.md)。
 
 [仓库首页](README.md) · [MIT 许可证](LICENSE)。
+
+**公开证明版本：** [proof-v1.0.0](https://github.com/Asakitan/quantum-ring/releases/tag/proof-v1.0.0)，版本日期 2026-11-26；署名 Chain.Ren（独立研究）。
